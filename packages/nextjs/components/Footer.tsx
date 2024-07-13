@@ -4,7 +4,6 @@ import { hardhat } from "viem/chains";
 import { CurrencyDollarIcon, MagnifyingGlassIcon } from "@heroicons/react/24/outline";
 import { HeartIcon } from "@heroicons/react/24/outline";
 import { SwitchTheme } from "~~/components/SwitchTheme";
-import { BuidlGuidlLogo } from "~~/components/assets/BuidlGuidlLogo";
 import { Faucet } from "~~/components/scaffold-eth";
 import { useTargetNetwork } from "~~/hooks/scaffold-eth/useTargetNetwork";
 import { useGlobalState } from "~~/services/store/store";
@@ -35,7 +34,7 @@ export const Footer = () => {
                 <Faucet />
                 <Link href="/blockexplorer" passHref className="btn btn-primary btn-sm font-normal gap-1">
                   <MagnifyingGlassIcon className="h-4 w-4" />
-                  <span>Block Explorer</span>
+                  <span>Transaction Tracker</span>
                 </Link>
               </>
             )}
@@ -47,8 +46,13 @@ export const Footer = () => {
         <ul className="menu menu-horizontal w-full">
           <div className="flex justify-center items-center gap-2 text-sm w-full">
             <div className="text-center">
-              <a href="https://github.com/scaffold-eth/se-2" target="_blank" rel="noreferrer" className="link">
-                Fork me
+              <a
+                href="https://github.com/scaffold-eth/scaffold-eth-2"
+                target="_blank"
+                rel="noreferrer"
+                className="link"
+              >
+                Original Code
               </a>
             </div>
             <span>·</span>
@@ -58,18 +62,30 @@ export const Footer = () => {
               </p>
               <a
                 className="flex justify-center items-center gap-1"
-                href="https://buidlguidl.com/"
+                href="https://ethglobal.com/events/brussels"
                 target="_blank"
                 rel="noreferrer"
               >
-                <BuidlGuidlLogo className="w-3 h-5 pb-1" />
-                <span className="link">BuidlGuidl</span>
+                <span className="link">ETHGlobal Brussels Hackathon (2024)</span>
               </a>
             </div>
             <span>·</span>
             <div className="text-center">
-              <a href="https://t.me/joinchat/KByvmRe5wkR-8F_zz6AjpA" target="_blank" rel="noreferrer" className="link">
-                Support
+              <Link
+                href="https://unsdg.un.org/2030-agenda/leadership/the-resident-coordinator"
+                passHref
+                className="link"
+              >
+                UN Resident Coordinator
+              </Link>
+              :{" "}
+              <a
+                href="https://etherscan.io/address/0xb5ee030c71e76C3E03B2A8d425dBb9B395037C82"
+                target="_blank"
+                rel="noreferrer"
+                className="link"
+              >
+                daqhris.eth
               </a>
             </div>
           </div>
