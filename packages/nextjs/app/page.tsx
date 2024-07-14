@@ -19,23 +19,66 @@ const Home: NextPage = () => {
           </h1>
           <div className="flex justify-center items-center space-x-2 flex-col sm:flex-row">
             <p className="my-2 font-medium">Your Ethereal ID</p>
-            <Address address={connectedAddress} /> has been verified by a humanitarian bot.
+            <Address address={connectedAddress} /> has been verified by a{" "}
+            <code className="italic bg-base-300 text-base font-bold max-w-full break-words break-all inline-block">
+              humanitarian bot
+            </code>
+            .
           </div>
           <p className="text-center text-lg">
-            Get started by editing{" "}
+            In the early 16th century,{" "}
             <code className="italic bg-base-300 text-base font-bold max-w-full break-words break-all inline-block">
-              packages/nextjs/app/page.tsx
+              Brussels
+            </code>{" "}
+            was invaded by rats because of the{" "}
+            <code className="italic bg-base-300 text-base font-bold max-w-full break-words break-all inline-block">
+              Senne River
             </code>
+            , which flowed through the city and served as an open sewer. To combat this{" "}
+            <code className="italic bg-base-300 text-base font-bold max-w-full break-words break-all inline-block">
+              rat invasion
+            </code>
+            , the people of Brussels began{" "}
+            <code className="italic bg-base-300 text-base font-bold max-w-full break-words break-all inline-block">
+              adopting dogs
+            </code>
+            .
           </p>
           <p className="text-center text-lg">
-            Edit your smart contract{" "}
+            These dogs, left free, began to{" "}
             <code className="italic bg-base-300 text-base font-bold max-w-full break-words break-all inline-block">
-              YourContract.sol
+              mix and reproduce
             </code>{" "}
-            in{" "}
+            wildly, which very quickly gave rise to an enormous number of{" "}
             <code className="italic bg-base-300 text-base font-bold max-w-full break-words break-all inline-block">
-              packages/hardhat/contracts
+              mongrel
+            </code>{" "}
+            dogs. To get rid of these{" "}
+            <code className="italic bg-base-300 text-base font-bold max-w-full break-words break-all inline-block">
+              breedless
+            </code>{" "}
+            dogs, which in turn became{" "}
+            <code className="italic bg-base-300 text-base font-bold max-w-full break-words break-all inline-block">
+              invasive
             </code>
+            , the inhabitants{" "}
+            <code className="italic bg-base-300 text-base font-bold max-w-full break-words break-all inline-block">
+              drowned
+            </code>{" "}
+            them in the Senne.
+          </p>
+          <p className="text-center text-lg italic bg-base-300 text-base font-bold">
+            The{" "}
+            <code className="italic bg-base-300 text-base font-bold max-w-full break-words break-all inline-block">
+              Zinneke
+            </code>{" "}
+            were therefore originally these small mongrel dogs, without breed, intended to be thrown into the Senne. By
+            extension, we call Zinneke{" "}
+            <code className="italic bg-base-300 text-base font-bold max-w-full break-words break-all inline-block">
+              {" "}
+              any animal or even person of mixed origins
+            </code>
+            .
           </p>
         </div>
 
