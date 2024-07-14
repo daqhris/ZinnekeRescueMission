@@ -24,8 +24,8 @@ _The **Zinneke** were therefore originally these small mongrel dogs, without bre
 
 ### Basic Terms
 
-- Senne (_European River_): https://en.wikipedia.org/wiki/Senne_(river)  
-- Zinneke (_French language definition_): https://fr.wiktionary.org/wiki/zinneke   
+- Senne (_European River_): [en.wikipedia.org/wiki/Senne_(river)](https://en.wikipedia.org/wiki/Senne_(river))
+- Zinneke (_French language definition_): [fr.wiktionary.org/wiki/zinneke](https://fr.wiktionary.org/wiki/zinneke)
 
 ### GeoLocation
 
