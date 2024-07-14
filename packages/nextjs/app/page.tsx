@@ -65,7 +65,11 @@ const Home: NextPage = () => {
             <code className="italic bg-base-300 text-base font-bold max-w-full break-words break-all inline-block">
               drowned
             </code>{" "}
-            them in the Senne.
+            them in the{" "}
+            <Link href="https://en.wikipedia.org/wiki/Senne_(river)" passHref className="link">
+              Senne
+            </Link>
+            .
           </p>
           <p className="text-center text-lg italic bg-base-300 text-base font-bold">
             The{" "}
@@ -73,7 +77,10 @@ const Home: NextPage = () => {
               Zinneke
             </code>{" "}
             were therefore originally these small mongrel dogs, without breed, intended to be thrown into the Senne. By
-            extension, we call Zinneke{" "}
+            extension, we call{" "}
+            <Link href="https://fr.wiktionary.org/wiki/zinneke" passHref className="link">
+              Zinneke
+            </Link>{" "}
             <code className="italic bg-base-300 text-base font-bold max-w-full break-words break-all inline-block">
               {" "}
               any animal or even person of mixed origins
