@@ -54,3 +54,11 @@ _ETHEREUM DEVELOPMENT STACK_ -> **Scaffold-ETH-2** -> [github.com/scaffold-eth/s
 _ONCHAIN PHOTO SENDING_ -> **Chainlink CCIP** [github.com/smartcontractkit/chainlink-local](https://github.com/smartcontractkit/chainlink-local)  
 _DELIVERY TRACKER_ -> **Blockscout** [github.com/blockscout/blockscout](https://github.com/blockscout/blockscout)  
 _BLOCKCHAIN USER NAMES_ -> **ENS Domains** [github.com/ensdomains/ens](https://github.com/ensdomains/ens)  
+
+### Angel Sponsors
+
+- __*dApp CodeBase*__ ~ pre-built by [scaffoldeth.io](https://scaffoldeth.io/)  
+- __*Decentralized Platform*__ ~ powered by the [ETH blockchain](https://ethereum.org/en/what-is-ethereum/) and operated on the [OP Superchain](https://docs.optimism.io/stack/explainer)  
+- __*Mission Launchpad*__ ~ 36 hours of hacking at [ETHGlobal Brussels 2024](https://ethglobal.com/about)
+- __*Launch Location*__ ~ The EGG, Brussels, Belgium (Europe)  
+- __*Resident Coordinator*__ ~ [daqhris.eth](https://warpcast.com/daqhris)  
