@@ -52,11 +52,20 @@ Any volunteer may choose to sponsor the gas expenses of random individuals who r
 
 ### Open-Source Toolbox
 
-_RESCUE MISSION LOGO_ -> **OpenMoji** -> [openmoji.org/library](https://openmoji.org/library/emoji-1F415-200D-1F9BA/)  
-_ETHEREUM DEVELOPMENT STACK_ -> **Scaffold-ETH-2** -> [github.com/scaffold-eth/scaffold-eth-2](https://github.com/scaffold-eth/scaffold-eth-2)  
-_ONCHAIN PHOTO SHARING PROTOCOL_ -> **Chainlink CCIP** -> [github.com/smartcontractkit/chainlink-local](https://github.com/smartcontractkit/chainlink-local)  
-_ONCHAIN DELIVERY TRACKING PROTOCOL_ -> **Blockscout** -> [github.com/blockscout/blockscout](https://github.com/blockscout/blockscout)  
-_BLOCKCHAIN USER NAMES PROTOCOL_ -> **ENS Domains** -> [github.com/ensdomains/ens](https://github.com/ensdomains/ens)  
+_RESCUE MISSION LOGO_  
+**OpenMoji** -> [openmoji.org/library](https://openmoji.org/library/emoji-1F415-200D-1F9BA/)  
+
+_ETHEREUM DEVELOPMENT STACK_  
+**Scaffold-ETH-2** -> [github.com/scaffold-eth/scaffold-eth-2](https://github.com/scaffold-eth/scaffold-eth-2)  
+
+_ONCHAIN PHOTO SHARING PROTOCOL_  
+**Chainlink CCIP** -> [github.com/smartcontractkit/chainlink-local](https://github.com/smartcontractkit/chainlink-local)  
+
+_ONCHAIN DELIVERY TRACKING PROTOCOL_  
+**Blockscout** -> [github.com/blockscout/blockscout](https://github.com/blockscout/blockscout)  
+
+_BLOCKCHAIN USER NAMES PROTOCOL_  
+**ENS Domains** -> [github.com/ensdomains/ens](https://github.com/ensdomains/ens)  
 
 ### Angel Sponsors
 
@@ -68,7 +77,7 @@ _BLOCKCHAIN USER NAMES PROTOCOL_ -> **ENS Domains** -> [github.com/ensdomains/en
 
 ## TO-BE-CONTINUED  
 
-What you are looking at is an early draft, an unfinished dApp submission, worthy of a participation trophy.    
+What you are looking at is an early draft, an unfinished dApp submission, worthy of a participation certificate.    
 Come back later as a spectator, volunteer, tourist, judge, or even as an onchain-faring Zinneke. 
 
 **OFFICIAL MISSION LAUNCH**  
