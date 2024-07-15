@@ -27,11 +27,12 @@ Join if you want to volunteer as a developer and hack together on Ethereum.
 
 ## Rescue Mission 101  
 
-### Basic Terms
+### Basic Terms & Resources
 
 - Senne (_European River_): [en.wikipedia.org/wiki/Senne_(river)](https://en.wikipedia.org/wiki/Senne_(river))
 - Zinneke (_French definition_): [fr.wiktionary.org/wiki/zinneke](https://fr.wiktionary.org/wiki/zinneke)
 - Zinneke Parade 2024: [brussels.be/zinneke-parade](https://www.brussels.be/zinneke-parade) - [zinneke.org](https://www.zinneke.org/) - [en.wikipedia.org](https://en.wikipedia.org/wiki/Zinneke_Parade)
+- Parade Souvenirs: [Album Photo](https://www.zinneke.org/nl/album-photo/zinneke-parade-2024-2/)
 
 ### GeoLocation
 
