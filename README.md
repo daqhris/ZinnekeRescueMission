@@ -22,8 +22,8 @@ _The **Zinneke** were therefore originally these small mongrel dogs, without bre
 
 Once again in our lifetimes, the covered river bed of the __*Senne*__ was flooded as heavy rains poured down on the capital of Europe. This time, the unexpected weather change coincided with a week of __*Ethereum*__-themed events in Brussels. Then a Brussels-based __*Zinneke*__ rushed to the __*ETHGlobal 2024*__ hackathon to build an out-of-this-world decentralized application.  
 
-This dApp is part of his call-to-action to smuggle photographic souvenirs, recently recovered from the floodwaters of the first Ethereum-themed week in Brussels, just a month after the biennial and citywide __*Zinneke Parade*__. 
-Join this __*rescue mission*__ if you want to volunteer as a __*humanitarian developer*__ and hack together on Ethereum. 
+This dApp is part of his call-to-action to __*smuggle photographic souvenirs*__, recently recovered from the __*summer floodwaters*__ of the first __*Ethereum-themed week*__ in Brussels, just a month after the biennial and citywide __*Zinneke Parade*__. 
+Join this __*rescue mission*__ if you want to volunteer as a __*humanitarian developer*__ and hack together on __*Ethereum*__. 
 
 ## Rescue Mission 101  
 
@@ -73,12 +73,16 @@ _BLOCKCHAIN USER NAMES PROTOCOL_
 - __*Propulsion Engine*__ ~ powered by the [ETH blockchain](https://ethereum.org/en/what-is-ethereum/) and operated on the [OP Superchain](https://docs.optimism.io/stack/explainer)  
 - __*Mission Launchpad*__ ~ a once-in-a-lifetime 36-hour caffeinated hackathon: [ETHGlobal Brussels 2024](https://ethglobal.com/about)
 - __*Terrestrial Launch Site*__ ~ The EGG, Brussels, Belgium (Europe)  
-- __*Resident Coordinator*__ ~ [daqhris.eth](https://warpcast.com/daqhris) 
+- __*Unresident Coordinator*__ ~ [daqhris.eth](https://warpcast.com/daqhris) 
 
 ## TO-BE-CONTINUED  
 
 What you are looking at is an early draft, an unfinished dApp submission, worthy of a participation certificate.    
 Come back later as a spectator, volunteer, tourist, judge, or even as an onchain-faring Zinneke. 
+
+_This is an Ethereum dApp conceived, built and submitted at an ETHGlobal hackathon in Brussels, Belgium (July 12-14, 2024)._ 
+
+🏗️ _[WORK-IN-PROGRESS](https://github.com/daqhris/ZinnekeRescueMission/commits/main/?since=2024-07-13&until=2024-10-31)_
 
 **OFFICIAL MISSION LAUNCH**  
 [ethglobal.com/showcase/zinnekerescuemission-9fwjf](https://ethglobal.com/showcase/zinnekerescuemission-9fwjf)
