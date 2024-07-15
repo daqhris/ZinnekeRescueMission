@@ -31,7 +31,7 @@ Join if you want to volunteer as a developer and hack together on Ethereum.
 
 - Senne (_European River_): [en.wikipedia.org/wiki/Senne_(river)](https://en.wikipedia.org/wiki/Senne_(river))
 - Zinneke (_French definition_): [fr.wiktionary.org/wiki/zinneke](https://fr.wiktionary.org/wiki/zinneke)
-- Zinneke Parade 2024: [brussels.be/zinneke-parade](https://www.brussels.be/zinneke-parade) - [zinneke.org](https://www.zinneke.org/)
+- Zinneke Parade 2024: [brussels.be/zinneke-parade](https://www.brussels.be/zinneke-parade) - [zinneke.org](https://www.zinneke.org/) - [en.wikipedia.org](https://en.wikipedia.org/wiki/Zinneke_Parade)
 
 ### GeoLocation
 
@@ -51,7 +51,7 @@ Any volunteer may choose to sponsor the gas expenses of random individuals who r
 
 ### Open-Source Toolbox
 
-_RESCUE MISSION LOGO_ -> **OpenMoji** -> [openmoji.org](https://openmoji.org/library/emoji-1F415-200D-1F9BA/)  
+_RESCUE MISSION LOGO_ -> **OpenMoji** -> [openmoji.org/library](https://openmoji.org/library/emoji-1F415-200D-1F9BA/)  
 _ETHEREUM DEVELOPMENT STACK_ -> **Scaffold-ETH-2** -> [github.com/scaffold-eth/scaffold-eth-2](https://github.com/scaffold-eth/scaffold-eth-2)  
 _ONCHAIN PHOTO SHARING PROTOCOL_ -> **Chainlink CCIP** -> [github.com/smartcontractkit/chainlink-local](https://github.com/smartcontractkit/chainlink-local)  
 _ONCHAIN DELIVERY TRACKING PROTOCOL_ -> **Blockscout** -> [github.com/blockscout/blockscout](https://github.com/blockscout/blockscout)  
