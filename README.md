@@ -45,8 +45,8 @@ Any volunteer may choose to sponsor the gas expenses of random individuals who r
 
 ### Open-Source Toolbox
 
-RESCUE MISSION LOGO: OpenMoji -> [openmoji.org](https://openmoji.org/library/emoji-1F415-200D-1F9BA/)
-ETHEREUM DEVELOPMENT STACK: Scaffold-ETH-2 -> [github.com/scaffold-eth/scaffold-eth-2](https://github.com/scaffold-eth/scaffold-eth-2)
-ONCHAIN PHOTO SENDING: Chainlink CCIP [github.com/smartcontractkit/chainlink-local](https://github.com/smartcontractkit/chainlink-local)
-DELIVERY TRACKER: Blockscout [github.com/blockscout/blockscout](https://github.com/blockscout/blockscout)
-BLOCKCHAIN USER NAMES: ENS Domains [github.com/ensdomains/ens](https://github.com/ensdomains/ens)
+RESCUE MISSION LOGO: OpenMoji -> [openmoji.org](https://openmoji.org/library/emoji-1F415-200D-1F9BA/)  
+ETHEREUM DEVELOPMENT STACK: Scaffold-ETH-2 -> [github.com/scaffold-eth/scaffold-eth-2](https://github.com/scaffold-eth/scaffold-eth-2)  
+ONCHAIN PHOTO SENDING: Chainlink CCIP [github.com/smartcontractkit/chainlink-local](https://github.com/smartcontractkit/chainlink-local)  
+DELIVERY TRACKER: Blockscout [github.com/blockscout/blockscout](https://github.com/blockscout/blockscout)  
+BLOCKCHAIN USER NAMES: ENS Domains [github.com/ensdomains/ens](https://github.com/ensdomains/ens)  
