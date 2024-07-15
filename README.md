@@ -4,6 +4,7 @@ A fictional initiative created to preserve photographs of the _**Zinneke Parade 
 
 _**An Ethereum-powered rescue mission, from Brussels to the ether**._
 
+
 ## dApp Project Description
 
 This is an __*artistic project*__ that seeks to bridge __*photographs*__ in the form of NFTs by distributing them to various user-owned accounts on a variety of __*Ethereum rollups*__.  
@@ -11,6 +12,8 @@ This is an __*artistic project*__ that seeks to bridge __*photographs*__ in the 
 It begins with a fictional story that seeks to preserve the last remaining visual memories of joyful events that occurred during the __*2024 Zinneke Parade*__.  
 
 In order to preserve Zinneke's souvenirs without loss of value, visitors to Brussels are invited to send them to their friends around the world, similar to postcards.  
+
+![ZinnekeRescueMission_LOGO](https://github.com/daqhris/ZinnekeRescueMission/blob/main/ZinnekeRescueMission_LOGO.png)
 
 ## Script Storyline
 
