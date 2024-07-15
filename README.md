@@ -71,7 +71,7 @@ _BLOCKCHAIN USER NAMES PROTOCOL_
 
 - __*dApp CodeBase*__ ~ pre-built by [scaffoldeth.io](https://scaffoldeth.io/)  
 - __*Propulsion Engine*__ ~ powered by the [ETH blockchain](https://ethereum.org/en/what-is-ethereum/) and operated on the [OP Superchain](https://docs.optimism.io/stack/explainer)  
-- __*Mission Launchpad*__ ~ 36-hour caffeinated hackathon at [ETHGlobal Brussels 2024](https://ethglobal.com/about)
+- __*Mission Launchpad*__ ~ a once-in-a-lifetime 36-hour caffeinated hackathon: [ETHGlobal Brussels 2024](https://ethglobal.com/about)
 - __*Terrestrial Launch Site*__ ~ The EGG, Brussels, Belgium (Europe)  
 - __*Resident Coordinator*__ ~ [daqhris.eth](https://warpcast.com/daqhris) 
 
