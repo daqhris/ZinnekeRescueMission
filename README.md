@@ -1,6 +1,6 @@
 # Ethereum dApp: ZinnekeRescueMission
 
-A fictional initiative created to preserve photographs of the Zinneke Parade, rescued from the Brussels summer river floods, by smuggling them through blockchains.
+A fictional initiative created to preserve photographs of the _**Zinneke Parade 2024**_, rescued from the Brussels summer river floods, by smuggling them through blockchains.
 
 _**An Ethereum-powered rescue mission, from Brussels to the ether**._
 
@@ -22,7 +22,7 @@ _The **Zinneke** were therefore originally these small mongrel dogs, without bre
 
 Once again in our lifetimes, the covered river bed of the __*Senne*__ was flooded as heavy rains poured down on the capital of Europe. This time, the unexpected weather change coincided with a week of __*Ethereum*__-themed events in Brussels. Then a Brussels-based __*Zinneke*__ rushed to the __*ETHGlobal 2024*__ hackathon to build an out-of-this-world decentralized application.  
 
-This dApp is part of his call to action to share on-chain photographic souvenirs. Join if you want to volunteer as a developer and hack together on Ethereum. 
+This dApp is part of his call to action to smuggle on-chain photo souvenirs. Join if you want to volunteer as a developer and hack together on Ethereum. 
 
 ## Rescue Mission 101  
 
