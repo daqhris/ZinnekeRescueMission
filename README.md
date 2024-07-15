@@ -4,7 +4,7 @@ A fictional initiative created to preserve photographs of the _**Zinneke Parade 
 
 _**An Ethereum-powered rescue mission, from Brussels to the ether**._
 
-## Project Description
+## dApp Project Description
 
 This is an __*artistic project*__ that seeks to bridge __*photographs*__ in the form of NFTs by distributing them to various user-owned accounts on a variety of __*Ethereum rollups*__.  
 
@@ -12,7 +12,7 @@ It begins with a fictional story that seeks to preserve the last remaining visua
 
 In order to preserve Zinneke's souvenirs without loss of value, visitors to Brussels are invited to send them to their friends around the world, similar to postcards.  
 
-## Storyline
+## Script Storyline
 
 In the early 16th century, __*Brussels*__ was invaded by rats because of the __*Senne River*__, which flowed through the city and served as an open sewer. To combat this __*rat invasion*__, the people of Brussels began __*adopting dogs*__.
 
