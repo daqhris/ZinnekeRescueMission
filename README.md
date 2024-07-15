@@ -20,6 +20,10 @@ These dogs, left free, began to __*mix and reproduce*__ wildly, which very quick
 
 _The **Zinneke** were therefore originally these small mongrel dogs, without breed, intended to be thrown into the Senne. By extension, we call Zinneke **any animal or even person of mixed origins**_.
 
+Once again in our lifetimes, the covered river bed of the __*Senne*__ was flooded as heavy rains poured down on the capital of Europe. This time, the unexpected weather change coincided with a week of __*Ethereum*__-themed events in Brussels. Then a Brussels-based __*Zinneke*__ rushed to the __*ETHGlobal 2024*__ hackathon to build an out-of-this-world decentralized application.  
+
+This dApp is part of his call to action to share on-chain Zinnekes' photo souvenirs. Join in if you want to contribute as a volunteer or developer and hack together on Ethereum. 
+
 ## Rescue Mission 101  
 
 ### Basic Terms
