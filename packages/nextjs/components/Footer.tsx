@@ -76,7 +76,7 @@ export const Footer = () => {
                 passHref
                 className="link"
               >
-                UnResident Coordinator
+                Unresident Coordinator
               </Link>
               :{" "}
               <a
