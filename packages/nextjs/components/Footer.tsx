@@ -76,7 +76,7 @@ export const Footer = () => {
                 passHref
                 className="link"
               >
-                UN Resident Coordinator
+                UnResident Coordinator
               </Link>
               :{" "}
               <a
