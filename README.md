@@ -62,7 +62,7 @@ _BLOCKCHAIN USER NAMES PROTOCOL_ -> **ENS Domains** -> [github.com/ensdomains/en
 - __*dApp CodeBase*__ ~ pre-built by [scaffoldeth.io](https://scaffoldeth.io/)  
 - __*Propulsion Engine*__ ~ powered by the [ETH blockchain](https://ethereum.org/en/what-is-ethereum/) and operated on the [OP Superchain](https://docs.optimism.io/stack/explainer)  
 - __*Mission Launchpad*__ ~ 36-hour caffeinated hackathon at [ETHGlobal Brussels 2024](https://ethglobal.com/about)
-- __*Launch Location*__ ~ The EGG, Brussels, Belgium (Europe)  
+- __*Terrestrial Launch Site*__ ~ The EGG, Brussels, Belgium (Europe)  
 - __*Resident Coordinator*__ ~ [daqhris.eth](https://warpcast.com/daqhris) 
 
 ## TO-BE-CONTINUED  
