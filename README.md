@@ -48,7 +48,7 @@ All crucial operations are decentralized by default.
 
 Because this humanitarian initiative is powered by the Ethereum blockchain, all packages flow within the network at the rhythm of computer nodes and validators.
 
-Any volunteer may choose to sponsor the gas expenses of random individuals who run out of gas while on a rescue mission.
+Any volunteer may choose to sponsor the gas expenses of random individuals who run out of gas while on this rescue mission.
 
 ### Open-Source Toolbox
 
@@ -58,10 +58,10 @@ _RESCUE MISSION LOGO_
 _ETHEREUM DEVELOPMENT STACK_  
 **Scaffold-ETH-2** -> [github.com/scaffold-eth/scaffold-eth-2](https://github.com/scaffold-eth/scaffold-eth-2)  
 
-_ONCHAIN PHOTO SHARING PROTOCOL_  
+_PHOTO SHARING PROTOCOL_  
 **Chainlink CCIP** -> [github.com/smartcontractkit/chainlink-local](https://github.com/smartcontractkit/chainlink-local)  
 
-_ONCHAIN DELIVERY TRACKING PROTOCOL_  
+_DELIVERY TRACKING PROTOCOL_  
 **Blockscout** -> [github.com/blockscout/blockscout](https://github.com/blockscout/blockscout)  
 
 _BLOCKCHAIN USER NAMES PROTOCOL_  
