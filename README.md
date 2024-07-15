@@ -61,4 +61,12 @@ _BLOCKCHAIN USER NAMES_ -> **ENS Domains** -> [github.com/ensdomains/ens](https:
 - __*Decentralized Platform*__ ~ powered by the [ETH blockchain](https://ethereum.org/en/what-is-ethereum/) and operated on the [OP Superchain](https://docs.optimism.io/stack/explainer)  
 - __*Mission Launchpad*__ ~ 36-hour caffeinated hackathon at [ETHGlobal Brussels 2024](https://ethglobal.com/about)
 - __*Launch Location*__ ~ The EGG, Brussels, Belgium (Europe)  
-- __*Resident Coordinator*__ ~ [daqhris.eth](https://warpcast.com/daqhris)  
+- __*Resident Coordinator*__ ~ [daqhris.eth](https://warpcast.com/daqhris) 
+
+## TO-BE-CONTINUED  
+
+What you are looking at is an early draft, an unfinished dApp submission, worthy of a participation trophy.    
+Come back later as a spectator, volunteer, tourist, judge, or even as an onchain-faring Zinneke. 
+
+**OFFICIAL MISSION LAUNCH**  
+[ethglobal.com/showcase/zinnekerescuemission-9fwjf](https://ethglobal.com/showcase/zinnekerescuemission-9fwjf)
