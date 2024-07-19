@@ -5,9 +5,9 @@ A fictional initiative created to preserve photographs of the _**Zinneke Parade 
 _**An Ethereum-powered rescue mission, from Brussels to the ether**._
 
 
-## App Project Description
+## Description
 
-This is an __*artistic project*__ that seeks to bridge __*photographs*__ in the form of NFTs by distributing them to various user-owned accounts on a variety of __*Ethereum rollups*__.  
+This is an __*artistic project*__ that facilitates bridging a series of __*photographs*__ in the form of NFTs by distributing them to various user-owned accounts on a variety of __*Ethereum rollups*__.  
 
 It begins with a fictional story that seeks to preserve the last remaining visual memories of joyful events that occurred during the __*2024 Zinneke Parade*__.  
 
@@ -15,7 +15,7 @@ In order to preserve Zinneke's souvenirs without loss of value, visitors to Brus
 
 ![ZinnekeRescueMission_LOGO](https://github.com/daqhris/ZinnekeRescueMission/blob/main/ZinnekeRescueMission_LOGO.png)
 
-## Script Storyline
+## Storyline
 
 In the early 16th century, __*Brussels*__ was invaded by rats because of the __*Senne River*__, which flowed through the city and served as an open sewer. To combat this __*rat invasion*__, the people of Brussels began __*adopting dogs*__.
 
@@ -30,7 +30,7 @@ Join this __*rescue mission*__ if you want to volunteer as a __*humanitarian dev
 
 ## Rescue Mission 101  
 
-### Basic Terms & Resources
+### Terms & Resources
 
 - Senne (_European River_): [en.wikipedia.org/wiki/Senne_(river)](https://en.wikipedia.org/wiki/Senne_(river))
 - Zinneke (_French definition_): [fr.wiktionary.org/wiki/zinneke](https://fr.wiktionary.org/wiki/zinneke)
@@ -41,13 +41,13 @@ Join this __*rescue mission*__ if you want to volunteer as a __*humanitarian dev
 
 The rescue mission is being carried out voluntarily in cyberspace over the terrain of the Ethereum blockchain.
 
-### Coordination Mechanism  
+### Coordination  
 
 The management structure is strictly horizontal.
 If we try to imagine a visual map of leadership positions, it would be different from a pyramidal organizational chart.
 All crucial operations are decentralized by default.
 
-### Transport & Logistics
+### Logistics
 
 Because this humanitarian initiative is powered by the Ethereum blockchain, all packages flow within the network at the rhythm of computer nodes and validators.
 
@@ -76,7 +76,46 @@ _BLOCKCHAIN USER NAMES PROTOCOL_
 - __*Propulsion Engine*__ ~ powered by the [ETH blockchain](https://ethereum.org/en/what-is-ethereum/) and operated on the [OP Superchain](https://docs.optimism.io/stack/explainer)  
 - __*Mission Launchpad*__ ~ a once-in-a-lifetime 36-hour caffeinated hackathon: [ETHGlobal Brussels 2024](https://ethglobal.com/about)
 - __*Terrestrial Launch Site*__ ~ The EGG, Brussels, Belgium (Europe)  
-- __*Unresident Coordinator*__ ~ [daqhris.eth](https://warpcast.com/daqhris) 
+- __*Unresident Coordinator*__ ~ [daqhris.eth](https://warpcast.com/daqhris)
+
+## RESCUE STRATEGY: POSTCARDS  
+
+### Significance in Modern Society
+
+__*-> Tactile experience*__  
+Postcards provide a sensory experience, allowing recipients to touch, feel, and display them.
+
+__*-> Personal touch*__  
+Handwritten messages and signatures make postcards a more intimate form of communication.
+
+__*-> Souvenir*__  
+Postcards serve as a memento of a trip or event, allowing people to share their experiences with others.
+
+__*-> Art and Design*__  
+Postcards often feature stunning artwork, photography, or design, making them a form of mini-art. 
+
+### Traditional Use Cases  
+
+1. __Travel and Tourism__  
+Postcards are a staple of travel, allowing visitors to share their experiences and memories with friends and family.
+
+2. __Greetings and Celebrations__  
+Postcards are used to send birthday wishes, holiday greetings, and other celebratory messages.
+
+3. __Marketing and Advertising__   
+Businesses use postcards as a cost-effective way to promote their products or services.
+
+4. __Artistic Expression__  
+Postcards have become a medium for artists, photographers, and designers to showcase their work.
+
+5. __Collecting__  
+Postcard collecting, or deltiology, is a popular hobby, with enthusiasts seeking rare and unique cards.
+
+6. __Education__  
+Postcards can be used as a teaching tool, helping students learn about geography, history, and culture.
+
+7. __Therapeutic purposes__  
+Postcards have been used in therapy settings to help individuals express themselves and connect with others.
 
 ## TO-BE-CONTINUED  
 
