@@ -90,13 +90,13 @@ __*postcard*__ /pōst′kärd″/ (noun)
 
 ### Significance in modern cociety
 
-__*-> Tactile experience:*__ Postcards provide a sensory experience, allowing recipients to touch, feel, and display them.
+__*> Tactile experience:*__ Postcards provide a sensory experience, allowing recipients to touch, feel, and display them.
 
-__*-> Personal touch:*__ Handwritten messages and signatures make postcards a more intimate form of communication.
+__*> Personal touch:*__ Handwritten messages and signatures make postcards a more intimate form of communication.
 
-__*-> Souvenir:*__ Postcards serve as a memento of a trip or event, allowing people to share their experiences with others.
+__*> Souvenir:*__ Postcards serve as a memento of a trip or event, allowing people to share their experiences with others.
 
-__*-> Art and Design:*__ Postcards often feature stunning artwork, photography, or design, making them a form of mini-art. 
+__*> Art and Design:*__ Postcards often feature stunning artwork, photography, or design, making them a form of mini-art. 
 
 ### Traditional use cases  
 
