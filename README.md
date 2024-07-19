@@ -134,7 +134,7 @@ _This is an Ethereum-based application conceived, built and submitted at an in-p
 🖤💛❤️ [ethglobal.com/showcase/zinnekerescuemission-9fwjf](https://ethglobal.com/showcase/zinnekerescuemission-9fwjf)
 
 ### Other Same-Day Global Event
-Inaugural Commemoration of [North Korean Defectors' Day](https://www.unikorea.go.kr/eng_unikorea/news/releases/?boardId=bbs_0000000000000034&mode=view&cntId=54304) in **South Korea**. [(Read more)](https://carnegieendowment.org/emissary/2024/07/defectors-day-south-korea-holiday-north-korea-refugees?lang=en&center=russia-eurasia)
+Inaugural Commemoration of the [North Korean Defectors' Day](https://www.unikorea.go.kr/eng_unikorea/news/releases/?boardId=bbs_0000000000000034&mode=view&cntId=54304) in **South Korea**. [(Read more)](https://carnegieendowment.org/emissary/2024/07/defectors-day-south-korea-holiday-north-korea-refugees?lang=en&center=russia-eurasia)
 
 
 ## TO-BE-CONTINUED  
