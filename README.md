@@ -26,7 +26,6 @@ _The **Zinneke** were therefore originally these small mongrel dogs, without bre
 Once again in our lifetimes, the covered river bed of the __*Senne*__ was flooded as heavy rains poured down on the capital of Europe. This time, the unexpected weather change coincided with a week of __*Ethereum*__-themed events in Brussels. Then a Brussels-based __*Zinneke*__ rushed to the __*ETHGlobal 2024*__ hackathon to build an out-of-this-world decentralized application.  
 
 This App is part of his call-to-action to __*smuggle photographic souvenirs*__, recently recovered from the __*summer floodwaters*__ of the first __*Ethereum-themed week*__ in Brussels, just a month after the biennial and citywide __*Zinneke Parade*__. 
-Join this __*rescue mission*__ if you want to volunteer as a __*humanitarian developer*__ and hack together on __*Ethereum*__. 
 
 ## Rescue Mission 101  
 
@@ -45,7 +44,10 @@ The rescue mission is being carried out voluntarily in cyberspace over the terra
 
 The mission's management structure is strictly horizontal.
 If we try to imagine a visual map of leadership positions, it would be different from a pyramidal organizational chart.
-All crucial operations are decentralized by default.
+All crucial operations are decentralized by default. 
+
+Join this __*rescue mission*__ if you want to volunteer as a __*humanitarian developer*__ and hack together on __*Ethereum*__. 
+
 
 ### Logistics
 
