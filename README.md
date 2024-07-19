@@ -118,8 +118,9 @@ __*> Art and Design:*__ Postcards often feature stunning artwork, photography, o
 
 ## OFFICIAL MISSION LAUNCH 
 
-### Date of Launch
-July 14, 2024    
+### Date & Time
+July 14, 2024  
+9:00 am • UTC+2 
  
 ### ETHGlobal Brussels 2024
 _This is an Ethereum-based application conceived, built and submitted at an in-preson ETHGlobal hackathon in **Brussels, Belgium** (July 12-14, 2024)._
