@@ -117,22 +117,23 @@ Postcards can be used as a teaching tool, helping students learn about geography
 7. __Therapeutic purposes__  
 Postcards have been used in therapy settings to help individuals express themselves and connect with others.
 
+
+## OFFICIAL MISSION LAUNCH 
+
+### Date of Launch
+July 14, 2024    
+ 
+### ETHGlobal Brussels 2024
+_This is an Ethereum-based application conceived, built and submitted at an in-preson ETHGlobal hackathon in **Brussels, Belgium** (July 12-14, 2024)._
+🖤💛❤️ [ethglobal.com/showcase/zinnekerescuemission-9fwjf](https://ethglobal.com/showcase/zinnekerescuemission-9fwjf)
+
+### Other Same-Day Global Event
+Inaugural Commemoration of [North Korean Defectors' Day](https://www.unikorea.go.kr/eng_unikorea/news/releases/?boardId=bbs_0000000000000034&mode=view&cntId=54304) in **South Korea**. [(Read more)](https://carnegieendowment.org/emissary/2024/07/defectors-day-south-korea-holiday-north-korea-refugees?lang=en&center=russia-eurasia)
+
+
 ## TO-BE-CONTINUED  
 
 What you are looking at is an early draft, an unfinished app submission, worthy of a participation certificate.    
 Come back later as a spectator, volunteer, tourist, judge, or even as an onchain-faring Zinneke. 
 
-_This is an Ethereum-based application conceived, built and submitted at an ETHGlobal hackathon in Brussels, Belgium (July 12-14, 2024)._ 
-
 🏗️ _[WORK-IN-PROGRESS](https://github.com/daqhris/ZinnekeRescueMission/commits/main/?since=2024-07-13&until=2024-10-31)_
-
-## OFFICIAL MISSION LAUNCH 
-
-### Date
-July 14, 2024    
- 
-### ETHGlobal Brussels 2024
-🖤💛❤️ [ethglobal.com/showcase/zinnekerescuemission-9fwjf](https://ethglobal.com/showcase/zinnekerescuemission-9fwjf)
-
-### Other Same-Day Global Event
-Inaugural Commemoration of [North Korean Defectors' Day](https://www.unikorea.go.kr/eng_unikorea/news/releases/?boardId=bbs_0000000000000034&mode=view&cntId=54304) in **South Korea**. [(Read more)](https://carnegieendowment.org/emissary/2024/07/defectors-day-south-korea-holiday-north-korea-refugees?lang=en&center=russia-eurasia)
