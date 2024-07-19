@@ -47,7 +47,7 @@ The mission's management structure is strictly horizontal.
 If we try to imagine a visual map of leadership positions, it would be different from a pyramidal organizational chart.
 All crucial operations are decentralized by default. 
 
-Join this __*rescue mission*__ if you want to volunteer as a __*humanitarian developer*__ and hack together on __*Ethereum*__ -> [CONTRIBUTING.md](https://github.com/daqhris/ZinnekeRescueMission/blob/main/CONTRIBUTING.md)
+Join this __*rescue mission*__ if you want to volunteer as a __*humanitarian developer*__ and hack together on __*Ethereum*__ -> [ZinnekeRescueMission/CONTRIBUTING.md](https://github.com/daqhris/ZinnekeRescueMission/blob/main/CONTRIBUTING.md)
 
 
 ### Logistics
