@@ -38,7 +38,8 @@ This App is part of his call-to-action to __*smuggle photographic souvenirs*__, 
   
 ### GeoLocation
 
-The rescue mission is being carried out voluntarily in cyberspace over the terrain of the Ethereum blockchain.
+The rescue mission is being carried out voluntarily in cyberspace over the terrain of the Ethereum blockchain.  
+Launched from a terrestrial location on the territory of the Kingdom of Belgium and the de facto capital of the European Union.
 
 ### Coordination  
 
