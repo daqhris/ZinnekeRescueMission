@@ -90,40 +90,30 @@ __*postcard*__ /pōst′kärd″/ (noun)
 
 ### Significance in modern cociety
 
-__*-> Tactile experience*__  
-Postcards provide a sensory experience, allowing recipients to touch, feel, and display them.
+__*-> Tactile experience:*__ Postcards provide a sensory experience, allowing recipients to touch, feel, and display them.
 
-__*-> Personal touch*__  
-Handwritten messages and signatures make postcards a more intimate form of communication.
+__*-> Personal touch:*__ Handwritten messages and signatures make postcards a more intimate form of communication.
 
-__*-> Souvenir*__  
-Postcards serve as a memento of a trip or event, allowing people to share their experiences with others.
+__*-> Souvenir:*__ Postcards serve as a memento of a trip or event, allowing people to share their experiences with others.
 
-__*-> Art and Design*__  
-Postcards often feature stunning artwork, photography, or design, making them a form of mini-art. 
+__*-> Art and Design:*__ Postcards often feature stunning artwork, photography, or design, making them a form of mini-art. 
 
 ### Traditional use cases  
 
-1. __Travel and Tourism__  
-Postcards are a staple of travel, allowing visitors to share their experiences and memories with friends and family.
+1. __Travel and Tourism:__ Postcards are a staple of travel, allowing visitors to share their experiences and memories with friends and family.
 
-2. __Greetings and Celebrations__  
+2. __Greetings and Celebrations:__  
 Postcards are used to send birthday wishes, holiday greetings, and other celebratory messages.
 
-3. __Marketing and Advertising__   
-Businesses use postcards as a cost-effective way to promote their products or services.
+3. __Marketing and Advertising:__ Businesses use postcards as a cost-effective way to promote their products or services.
 
-4. __Artistic Expression__  
-Postcards have become a medium for artists, photographers, and designers to showcase their work.
+4. __Artistic Expression:__ Postcards have become a medium for artists, photographers, and designers to showcase their work.
 
-5. __Collecting__  
-Postcard collecting, or deltiology, is a popular hobby, with enthusiasts seeking rare and unique cards.
+5. __Collecting:__ Postcard collecting, or deltiology, is a popular hobby, with enthusiasts seeking rare and unique cards.
 
-6. __Education__  
-Postcards can be used as a teaching tool, helping students learn about geography, history, and culture.
+6. __Education:__ Postcards can be used as a teaching tool, helping students learn about geography, history, and culture.
 
-7. __Therapeutic purposes__  
-Postcards have been used in therapy settings to help individuals express themselves and connect with others.
+7. __Therapeutic purposes:__ Postcards have been used in therapy settings to help individuals express themselves and connect with others.
 
 
 ## OFFICIAL MISSION LAUNCH 
