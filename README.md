@@ -102,8 +102,7 @@ __*> Art and Design:*__ Postcards often feature stunning artwork, photography, o
 
 1. __Travel and Tourism:__ Postcards are a staple of travel, allowing visitors to share their experiences and memories with friends and family.
 
-2. __Greetings and Celebrations:__  
-Postcards are used to send birthday wishes, holiday greetings, and other celebratory messages.
+2. __Greetings and Celebrations:__ Postcards are used to send birthday wishes, holiday greetings, and other celebratory messages.
 
 3. __Marketing and Advertising:__ Businesses use postcards as a cost-effective way to promote their products or services.
 
