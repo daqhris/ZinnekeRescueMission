@@ -78,9 +78,15 @@ _BLOCKCHAIN USER NAMES PROTOCOL_
 - __*Terrestrial Launch Site*__ ~ The EGG, Brussels, Belgium (Europe)  
 - __*Unresident Coordinator*__ ~ [daqhris.eth](https://warpcast.com/daqhris)
 
-## RESCUE STRATEGY: POSTCARDS  
+## USING ONCHAIN POSTCARDS AS A RESCUE STRATEGY  
 
-### Significance in Modern Society
+__*postcard*__ /pōst′kärd″/ (noun)   
+
+1. A printed card with space on one side for an address and a postage stamp, used for sending a short message through the mail.  
+2. A rectangular piece of thick paper or thin cardboard intended to be written on and mailed without an envelope. In the case of a picture postcard one side carries a picture or photograph.  
+3. A card for sending messages by post without an envelope.  
+
+### Significance in modern cociety
 
 __*-> Tactile experience*__  
 Postcards provide a sensory experience, allowing recipients to touch, feel, and display them.
@@ -94,7 +100,7 @@ Postcards serve as a memento of a trip or event, allowing people to share their 
 __*-> Art and Design*__  
 Postcards often feature stunning artwork, photography, or design, making them a form of mini-art. 
 
-### Traditional Use Cases  
+### Traditional use cases  
 
 1. __Travel and Tourism__  
 Postcards are a staple of travel, allowing visitors to share their experiences and memories with friends and family.
