@@ -1,6 +1,6 @@
 # Ethereum App: ZinnekeRescueMission
 
-A fictional initiative created to preserve photographs of the _**Zinneke Parade 2024**_, rescued from the Brussels summer river floods, by smuggling them through Ethereum blockchain rollups.
+A fictional, playful and engaging initiative created to preserve photographs of the _**Zinneke Parade 2024**_, rescued from the Brussels summer river floods, by smuggling them through Ethereum blockchain rollups.
 
 _**An Ethereum-powered rescue mission, from Brussels to the ether**._
 
@@ -30,7 +30,7 @@ Join this __*rescue mission*__ if you want to volunteer as a __*humanitarian dev
 
 ## Rescue Mission 101  
 
-### Terms & Resources
+### Keywords & Resources
 
 - Senne (_European River_): [en.wikipedia.org/wiki/Senne_(river)](https://en.wikipedia.org/wiki/Senne_(river))
 - Zinneke (_French definition_): [fr.wiktionary.org/wiki/zinneke](https://fr.wiktionary.org/wiki/zinneke)
@@ -126,5 +126,13 @@ _This is an Ethereum-based application conceived, built and submitted at an ETHG
 
 🏗️ _[WORK-IN-PROGRESS](https://github.com/daqhris/ZinnekeRescueMission/commits/main/?since=2024-07-13&until=2024-10-31)_
 
-**OFFICIAL MISSION LAUNCH**  
-[ethglobal.com/showcase/zinnekerescuemission-9fwjf](https://ethglobal.com/showcase/zinnekerescuemission-9fwjf)
+## OFFICIAL MISSION LAUNCH 
+
+### Date
+July 14, 2024    
+ 
+### ETHGlobal Brussels 2024
+🖤💛❤️ [ethglobal.com/showcase/zinnekerescuemission-9fwjf](https://ethglobal.com/showcase/zinnekerescuemission-9fwjf)
+
+### Other Same-Day Global Event
+Inaugural Commemoration of [North Korean Defectors' Day](https://www.unikorea.go.kr/eng_unikorea/news/releases/?boardId=bbs_0000000000000034&mode=view&cntId=54304) in South Korea. 
