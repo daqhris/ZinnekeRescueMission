@@ -43,7 +43,7 @@ The rescue mission is being carried out voluntarily in cyberspace over the terra
 
 ### Coordination  
 
-The management structure is strictly horizontal.
+The mission's management structure is strictly horizontal.
 If we try to imagine a visual map of leadership positions, it would be different from a pyramidal organizational chart.
 All crucial operations are decentralized by default.
 
