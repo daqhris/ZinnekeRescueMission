@@ -34,9 +34,9 @@ Join this __*rescue mission*__ if you want to volunteer as a __*humanitarian dev
 
 - Senne (_European River_): [en.wikipedia.org/wiki/Senne_(river)](https://en.wikipedia.org/wiki/Senne_(river))
 - Zinneke (_French definition_): [fr.wiktionary.org/wiki/zinneke](https://fr.wiktionary.org/wiki/zinneke)
-- Zinneke Parade 2024: [brussels.be/zinneke-parade](https://www.brussels.be/zinneke-parade) - [zinneke.org](https://www.zinneke.org/) - [en.wikipedia.org](https://en.wikipedia.org/wiki/Zinneke_Parade)
-- Parade Souvenirs: [Album Photo](https://www.zinneke.org/nl/album-photo/zinneke-parade-2024-2/)
-
+- Zinneke Parade 2024: [brussels.be/zinneke-parade](https://www.brussels.be/zinneke-parade) + [zinneke.org](https://www.zinneke.org/) + [en.wikipedia.org](https://en.wikipedia.org/wiki/Zinneke_Parade)
+- Souvenirs: [Parade Album Photo](https://www.zinneke.org/nl/album-photo/zinneke-parade-2024-2/) + unreleased photographs of [Kunstenfestivaldesarts Closing Night x Zinneke Parade After-Party](https://kfda.be/en/festivals/2024-edition/programme/nightlife-2024/) (captured by _daqhris.eth_)
+  
 ### GeoLocation
 
 The rescue mission is being carried out voluntarily in cyberspace over the terrain of the Ethereum blockchain.
