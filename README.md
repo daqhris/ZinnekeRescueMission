@@ -34,7 +34,7 @@ This App is part of his call-to-action to __*smuggle photographic souvenirs*__, 
 - Senne (_European River_): [en.wikipedia.org/wiki/Senne_(river)](https://en.wikipedia.org/wiki/Senne_(river))
 - Zinneke (_French definition_): [fr.wiktionary.org/wiki/zinneke](https://fr.wiktionary.org/wiki/zinneke)
 - Zinneke Parade 2024: [brussels.be/zinneke-parade](https://www.brussels.be/zinneke-parade) + [zinneke.org](https://www.zinneke.org/) + [en.wikipedia.org](https://en.wikipedia.org/wiki/Zinneke_Parade)
-- Souvenirs: [Parade Album Photo](https://www.zinneke.org/nl/album-photo/zinneke-parade-2024-2/) + unreleased photographs of [Kunstenfestivaldesarts Closing Night • Zinneke Parade After-Party](https://kfda.be/en/festivals/2024-edition/programme/nightlife-2024/) (captured by _daqhris.eth_)
+- Souvenirs: [Public Photo Album](https://www.zinneke.org/nl/album-photo/zinneke-parade-2024-2/) + unreleased photographs of [Kunstenfestivaldesarts Closing Night • Zinneke Parade After-Party](https://kfda.be/en/festivals/2024-edition/programme/nightlife-2024/) (captured by _daqhris.eth_)
   
 ### GeoLocation
 
@@ -81,39 +81,35 @@ _BLOCKCHAIN USER NAMES PROTOCOL_
 - __*Terrestrial Launch Site*__ ~ The EGG, Brussels, Belgium (Europe)  
 - __*Unresident Coordinator*__ ~ [daqhris.eth](https://warpcast.com/daqhris)
 
-## USING ONCHAIN POSTCARDS AS A RESCUE STRATEGY  
+## RESCUE STRATEGY: ONCHAIN POSTCARDS  
 
 __*postcard*__ /pōst′kärd″/ (noun)   
 
 1. A printed card with space on one side for an address and a postage stamp, used for sending a short message through the mail.  
-2. A rectangular piece of thick paper or thin cardboard intended to be written on and mailed without an envelope. In the case of a picture postcard one side carries a picture or photograph.  
-3. A card for sending messages by post without an envelope.  
+2. A rectangular piece of thick paper intended to be written on and mailed without an envelope. In the case of a picture postcard, one side carries a photograph.  
+3. A thin cardboard for sending messages by post without an envelope.  
 
-### Significance in modern cociety
-
-__*> Tactile experience:*__ Postcards provide a sensory experience, allowing recipients to touch, feel, and display them.
+### The Charm of Postcards
 
 __*> Personal touch:*__ Handwritten messages and signatures make postcards a more intimate form of communication.
 
-__*> Souvenir:*__ Postcards serve as a memento of a trip or event, allowing people to share their experiences with others.
+__*> Souvenir:*__ Serving as a memento of a trip or event, allowing people to share their experiences with others.
 
-__*> Art and Design:*__ Postcards often feature stunning artwork, photography, or design, making them a form of mini-art. 
+__*> Art and Design:*__ Featuring stunning artwork, photography, or design, making them a form of mini-art. 
 
-### Traditional use cases  
+__*> Culture and History:*__ Playing an key role in international communication and cultural exchange with iconic images of landmarks or historical events.
+
+### Examples of Traditional Use Cases  
 
 1. __Travel and Tourism:__ Postcards are a staple of travel, allowing visitors to share their experiences and memories with friends and family.
 
 2. __Greetings and Celebrations:__ Postcards are used to send birthday wishes, holiday greetings, and other celebratory messages.
 
-3. __Marketing and Advertising:__ Businesses use postcards as a cost-effective way to promote their products or services.
+3. __Artistic Expression:__ Postcards have become a medium for artists, photographers, and designers to showcase their work.
 
-4. __Artistic Expression:__ Postcards have become a medium for artists, photographers, and designers to showcase their work.
+4. __Collecting:__ Postcard collecting is a popular hobby, with enthusiasts seeking rare and unique cards.
 
-5. __Collecting:__ Postcard collecting, or deltiology, is a popular hobby, with enthusiasts seeking rare and unique cards.
-
-6. __Education:__ Postcards can be used as a teaching tool, helping students learn about geography, history, and culture.
-
-7. __Therapeutic purposes:__ Postcards have been used in therapy settings to help individuals express themselves and connect with others.
+5. __Education:__ Postcards can be used as a teaching tool, helping students learn about geography, history, and culture.
 
 
 ## OFFICIAL MISSION LAUNCH 
