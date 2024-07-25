@@ -91,10 +91,23 @@ _JAVASCRIPT RUNTIME ENVIRONMENT_
 _APP WEB DEPLOYMENT_  
 **Vercel** -> [vercel.com](https://vercel.com)
 
+_dAPP & SMART CONTRACT DEVELOPMENT ENVIRONMENT_  
+**Hardhat** -> [github.com/NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat)
+
+#### Coding Tools 
+- Code Editor: _Visual Studio Code + GitHub.dev_
+- Video Demo Recording: _OBS Studio_
+- Code License: _EUPL-1.2_
+
+#### Photography Tools  
+- Camera: _Canon EOS 1200D_
+- Lenses: _EF-S 18-55mm (Ø58mm) & EF 28-80mm (Ø85mm)_
+- Artwork License: _CC BY-NC-ND 4.0_
+
 ### Angel Sponsors
 
 - __*App CodeBase*__ ~ pre-built by [scaffoldeth.io](https://scaffoldeth.io/)  
-- __*Propulsion Engine*__ ~ powered by the [ETH blockchain](https://ethereum.org/en/what-is-ethereum/) and operated on the [OP Superchain](https://docs.optimism.io/stack/explainer)  
+- __*Propulsion Engine*__ ~ powered by the [ETH blockchain](https://ethereum.org/en/what-is-ethereum/) and operated on ETH rollups, like [OP Superchain](https://docs.optimism.io/stack/explainer)  
 - __*Mission Launchpad*__ ~ a once-in-a-lifetime 36-hour caffeinated hackathon: [ETHGlobal Brussels 2024](https://ethglobal.com/about)
 - __*Terrestrial Launch Site*__ ~ The EGG, Brussels, Belgium (Europe)  
 - __*Unresident Coordinator*__ ~ [daqhris.eth](https://warpcast.com/daqhris)
@@ -137,19 +150,9 @@ July 14, 2024
 9:00 am • UTC+2 
  
 ### ETHGlobal Brussels 2024
-_This is an Ethereum-based application conceived, built and submitted at an in-preson ETHGlobal hackathon in **Brussels, Belgium** (July 12-14, 2024)._
+_This is an Ethereum-based application conceived, built and submitted at an in-preson ETHGlobal hackathon in **Brussels, Belgium** (July 12-14, 2024)._  
+
 🖤💛❤️ [ethglobal.com/showcase/zinnekerescuemission-9fwjf](https://ethglobal.com/showcase/zinnekerescuemission-9fwjf)
-
-#### Coding Tools 
-- Code Editor: _Visual Studio Code + GitHub.dev_
-- Dev Utilities: _git_, _hardhat_, _npm_, _yarn_
-- Video Capture: _OBS Studio_
-- Code License: _EUPL-1.2_
-
-#### Photography Tools  
-- Camera: _Canon EOS 1200D_
-- Lenses: _EF-S 18-55mm (Ø58mm) & EF 28-80mm (Ø85mm)_
-- Artwork License: _CC BY-NC-ND 4.0_
 
 ### Other Same-Day Global Event
 Inaugural Commemoration of the [North Korean Defectors' Day](https://www.unikorea.go.kr/eng_unikorea/news/releases/?boardId=bbs_0000000000000034&mode=view&cntId=54304) in **South Korea**. [(Read more)](https://carnegieendowment.org/emissary/2024/07/defectors-day-south-korea-holiday-north-korea-refugees?lang=en&center=russia-eurasia)
