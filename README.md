@@ -73,6 +73,24 @@ _DELIVERY TRACKING PROTOCOL_
 _BLOCKCHAIN USER NAMES PROTOCOL_  
 **ENS Domains** -> [github.com/ensdomains/ens](https://github.com/ensdomains/ens)  
 
+_WEB DEVELOPMENT FRAMEWORK_  
+**NextJS** -> [github.com/vercel/next.js](https://github.com/vercel/next.js)
+
+_APP USER INTERFACE_  
+**daisyUI** -> [github.com/saadeghi/daisyui](https://github.com/saadeghi/daisyui)
+
+_JAVASCRIPT NODE PACKAGE MANAGER_  
+**Yarn** -> [github.com/yarnpkg/berry](https://github.com/yarnpkg/berry)
+
+_JAVASCRIPT NODE PACKAGE LIBRARY_  
+**npm** -> [github.com/npm/cli](https://github.com/npm/cli)
+
+_JAVASCRIPT RUNTIME ENVIRONMENT_  
+**Node.js** -> [github.com/nodejs/node](https://github.com/nodejs/node)
+
+_APP WEB DEPLOYMENT_  
+**Vercel** -> [vercel.com](https://vercel.com)
+
 ### Angel Sponsors
 
 - __*App CodeBase*__ ~ pre-built by [scaffoldeth.io](https://scaffoldeth.io/)  
